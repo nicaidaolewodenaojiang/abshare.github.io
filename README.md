@@ -18,10 +18,9 @@
 **每日公益流量有限，如果流量用尽，请前往官网注册账号**
 
 ```
-
-https://vip.allbluesub.xyz/api/v1/client/subscribe?token=95e95bd1bac5db163fa00e36cac80cde
-
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN2Y0ZTZjZC00MDA1LTRlMGUtYTM5ZS1hYmU3MmU4OGJmZTc=@1.1.1.1:53#%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E6%9D%A5%E5%AE%98%E7%BD%91%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN2Y0ZTZjZC00MDA1LTRlMGUtYTM5ZS1hYmU3MmU4OGJmZTc=@1.1.1.1:53#%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%EF%BC%9Aallbluecloud.xyz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN2Y0ZTZjZC00MDA1LTRlMGUtYTM5ZS1hYmU3MmU4OGJmZTc=@1.1.1.1:53#%E5%A4%87%E7%94%A8%E5%9F%9F%E5%90%8D%EF%BC%9Awww.abcloud365.xyz
 trojan://17f4e6cd-4005-4e0e-a39e-abe72e88bfe7@fujimount01.abzoones.xyz:36116?security=tls&sni=jp01.abpilot.xyz&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC01
 trojan://17f4e6cd-4005-4e0e-a39e-abe72e88bfe7@fujimount02.abzoones.xyz:36106?security=tls&sni=jp02.abpilot.xyz&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC02
 trojan://17f4e6cd-4005-4e0e-a39e-abe72e88bfe7@fujimount03.abzoones.xyz:36111?security=tls&sni=jp03.abpilot.xyz&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC03
